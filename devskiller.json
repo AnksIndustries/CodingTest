@@ -1,0 +1,7 @@
+{
+  "readOnlyFiles" : ["book.json"],
+  "verification" : {
+    "testNamePatterns" : [".*verify_pack.*"],
+    "pathPatterns" : ["**tests/verify_pack**"]
+  }
+}
